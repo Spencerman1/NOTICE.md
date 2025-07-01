@@ -1,3 +1,7 @@
+This declaration does NOT waive, abandon, or forfeit any sovereign intellectual property rights, authorship, or jurisdictional standing.  
+It supersedes prior documents solely for the purpose of correcting jurisdictional structure, eliminating descriptive bottlenecks, and establishing the updated sovereign framework governing this intellectual property.  
+
+
 # UNIFIED NOTICE: Intellectual Property Protection
 
 This repository contains original intellectual property developed by **Spencer Southern**, protected under the Unified Notice IP Protection Framework and governed by **Southern Star Pro. Studios LLC**.
