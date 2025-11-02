@@ -81,4 +81,4 @@ Contact for co-development, licensing, or enterprise validation discussions.
 
 ---
 
-© 2019–2025 Southern Star Pro. Studios LLC. All rights reserved.
+© 2007–2025 Southern Star Pro. Studios LLC. All rights reserved.
