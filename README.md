@@ -76,7 +76,7 @@ This repo is for public timestamping, collaborative validation, and strategic li
 
 ## 📩 Licensing Inquiries
 
-SouthernStarProStudios@protonmail.com  
+SpencerSouthern12@gmail.com  
 Contact for co-development, licensing, or enterprise validation discussions.
 
 ---
