@@ -34,7 +34,7 @@ This repository contains original intellectual property developed by **Spencer S
 
 ## ⚙️ Protected Systems
 
-This repository covers the following systems and logic protocols:
+This repository covers and not limited to the following systems and logic protocols:
 
 - Mint-to Logic™  
 - Mint-to-Burn™  
